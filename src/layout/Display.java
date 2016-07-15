@@ -18,8 +18,8 @@ import javax.swing.JTextArea;
 import Parse.MyWebtoon;
 
 public class Display extends JFrame {
-	private JButton button = new JButton("°ü½É À¥Å÷ Ãß°¡");
-	public JTextArea textArea = new JTextArea("", 0, 0);
+	private JButton button = new JButton("Â°Ã¼Â½Ã‰ Ã€Â¥Ã…Ã· ÃƒÃŸÂ°Â¡");
+	static JTextArea textArea = new JTextArea("", 0, 0);
 	
 	public void display(){		
 
